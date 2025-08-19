@@ -1,0 +1,35 @@
+---
+title: "Data Loading // Sorting"
+format: html
+editor: visual
+---
+
+```{r}
+
+## Setup -- packages
+
+if (!requireNamespace("readr", quietly=TRUE)) install.packages("readr")
+if (!requireNamespace("dplyr", quietly=TRUE)) install.packages("dplyr")
+if (!requireNamespace("tibble", quietly=TRUE)) install.packages("tibble")
+```
+
+```{r}
+
+# Libraries
+
+library(readr)
+library(dplyr)
+library(tibble)
+```
+
+```{r}
+
+# Paths
+
+counts_path <- "data_raw/polyA/Tumor-25.01-Polya_ensembl_counts_60498genes_2025-03-03.tsv"
+clinical_path <- "data_raw/polyA/clinical_Treehouse-Tumor-Compendium-25.01-PolyA_20250131v1.tsv"
+
+# output paths
+out_counts   <- "data/processed/sarcoma_counts.csv"
+out_metadata <- "data/processed/sarcoma_metadata.csv"
+```
