@@ -1,0 +1,113 @@
+---
+title: "Data Loading // Sorting"
+format: html
+editor: visual
+---
+
+```{r setup-packages}
+
+## Setup -- packages
+
+if (!requireNamespace("readr")) install.packages("readr")
+if (!requireNamespace("dplyr")) install.packages("dplyr")
+if (!requireNamespace("tibble")) install.packages("tibble")
+```
+
+```{r load-libraries}
+
+# Libraries
+
+library(readr)
+library(dplyr)
+library(tibble)
+```
+
+```{r restore-env-snapshot}
+
+# Restore Prev Session:
+
+load("full_env_backup.RData")
+```
+
+```{r define-paths}
+
+# Input Paths
+
+counts_path <- "/Users/ziminc/GitHub/treehouse-diff-expr-proj/data_raw/polyA/Tumor-25.01-Polya_ensembl_counts_60498genes_2025-03-03.tsv"
+clinical_path <- "/Users/ziminc/GitHub/treehouse-diff-expr-proj/data_raw/polyA/Tumor-25.01-Polya_ensembl_counts_60498genes_2025-03-03.tsv"
+
+```
+
+```{r load-counts}
+
+# Counts: Gene x Sample Matrix (RSEM expected counts)
+# Loading the full Treehouse RSEM expected counts matrix
+
+cts <- as.matrix(read.csv(clinical_path,sep="\t"))
+head(cts)
+```
+
+```{r load-filtered}
+
+filtered <- readr::read_csv("data_processed/polyA/filtered_sarcomas.csv", show_col_types = FALSE)
+
+keep_ids <- intersect(colnames(cts), filtered$th_dataset_id)
+
+cts_sub <- cts[, keep_ids, drop = FALSE]
+```
+
+```{r subset-counts}
+
+# Sanity Checks
+
+ncol(cts); ncol(cts_sub)          # before vs after
+length(unique(filtered$th_dataset_id))  # should be ~901
+all(colnames(cts_sub) %in% filtered$th_dataset_id)  # TRUE
+```
+
+```{r}
+
+# where everything turns into a nightmare
+
+library(readr); library(dplyr)
+
+# 1) reload FULL counts correctly (should be 60,498 x 13,355)
+cts <- as.matrix(read.delim(counts_path, row.names = 1, check.names = FALSE))
+cat("cts dims:", paste(dim(cts), collapse=" x "), "\n")  # expect 60498 x 13355
+
+# 2) subset counts to the sarcoma IDs (should be 901)
+keep_ids <- intersect(colnames(cts), filtered$th_dataset_id)
+cat("sarcoma IDs present in counts:", length(keep_ids), "\n")  # expect 901
+
+cts_sub <- cts[, keep_ids, drop = FALSE]
+cat("cts_sub dims:", paste(dim(cts_sub), collapse=" x "), "\n")  # expect 60498 x 901
+
+# 3) build coldata as a *data.frame* and align order to cts_sub
+idx <- match(colnames(cts_sub), filtered$th_dataset_id)
+coldata <- as.data.frame(filtered[idx, , drop = FALSE])   # tibble -> df so rownames stick
+rownames(coldata) <- coldata$th_dataset_id
+coldata$th_dataset_id <- NULL
+coldata$disease <- factor(coldata$disease)
+
+# 4) hard checks (must pass)
+stopifnot(
+  ncol(cts) == 13355,
+  ncol(cts_sub) == 901,
+  identical(rownames(coldata), colnames(cts_sub))
+)
+cat("✅ aligned: 901 samples; counts and metadata match.\n")
+```
+
+```{r}
+# save aligned matrices into the polyA subfolder for analysis
+saveRDS(cts_sub, "data_processed/polyA/sarcoma_counts_clean.rds")
+saveRDS(coldata, "data_processed/polyA/sarcoma_coldata_clean.rds")
+
+# Export as CSV for Inspection / Sharing
+write.csv(as.data.frame(cts_sub),
+          "data_processed/polyA/sarcoma_counts_clean.csv")
+
+write.csv(data.frame(th_dataset_id = rownames(coldata), coldata),
+          "data_processed/polyA/sarcoma_metadata_clean.csv",
+          row.names = FALSE)
+```
