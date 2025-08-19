@@ -1,0 +1,902 @@
+th_dataset_id,disease
+TH03_0103_S01,spindle cell/sclerosing rhabdomyosarcoma
+TH03_0105_S01,spindle cell/sclerosing rhabdomyosarcoma
+TH03_0106_S01,Ewing sarcoma
+TH03_0112_S01,synovial sarcoma
+TH03_0112_S02,synovial sarcoma
+TH34_1149_S01,INI-deficient soft tissue sarcoma NOS
+TH34_1149_S02,INI-deficient soft tissue sarcoma NOS
+TH34_1150_S01,Ewing sarcoma
+TH34_1150_S02,Ewing sarcoma
+TH27_1157_S01,alveolar rhabdomyosarcoma
+TH27_1157_S02,alveolar rhabdomyosarcoma
+TH27_1157_S03,alveolar rhabdomyosarcoma
+TH27_1160_S01,infantile fibrosarcoma
+TH34_1162_S01,Ewing sarcoma
+TH34_1163_S01,embryonal rhabdomyosarcoma
+TH27_1164_S01,embryonal rhabdomyosarcoma
+TH27_1164_S02,embryonal rhabdomyosarcoma
+TH27_1168_S01,Ewing sarcoma
+TH06_1171_S01,Ewing sarcoma
+TH06_1174_S01,alveolar rhabdomyosarcoma
+TH34_1240_S01,Ewing sarcoma
+TH27_1246_S01,Ewing sarcoma
+TH27_1247_S01,Ewing sarcoma
+TH27_1266_S01,Ewing sarcoma
+TH27_1268_S01,undifferentiated sarcoma NOS
+TH27_1269_S01,rhabdomyosarcoma
+TH27_1270_S01,Ewing sarcoma
+TH27_1272_S01,embryonal rhabdomyosarcoma
+TH27_1272_S02,embryonal rhabdomyosarcoma
+TH27_1353_S01,undifferentiated sarcoma NOS
+TH27_1354_S01,infantile fibrosarcoma
+THR39_1360_S01,synovial sarcoma
+THR39_1361_S01,synovial sarcoma
+THR39_1362_S01,synovial sarcoma
+THR39_1363_S01,synovial sarcoma
+THR39_1364_S01,synovial sarcoma
+THR39_1365_S01,synovial sarcoma
+THR39_1366_S01,synovial sarcoma
+THR39_1367_S01,synovial sarcoma
+THR39_1368_S01,synovial sarcoma
+THR39_1369_S01,synovial sarcoma
+THR39_1370_S01,synovial sarcoma
+THR39_1371_S01,synovial sarcoma
+THR39_1372_S01,synovial sarcoma
+THR39_1373_S01,synovial sarcoma
+THR39_1374_S01,synovial sarcoma
+THR39_1375_S01,synovial sarcoma
+THR39_1376_S01,synovial sarcoma
+THR39_1377_S01,synovial sarcoma
+THR39_1378_S01,synovial sarcoma
+TH34_1380_S01,embryonal rhabdomyosarcoma
+TH34_1380_S02,embryonal rhabdomyosarcoma
+THR31_1383_S01,embryonal rhabdomyosarcoma
+THR31_1384_S01,Ewing sarcoma
+THR31_1386_S01,synovial sarcoma
+THR31_1390_S01,embryonal rhabdomyosarcoma
+THR31_1392_S01,synovial sarcoma
+THR31_1393_S01,synovial sarcoma
+THR31_1394_S01,rhabdomyosarcoma
+TH03_0014_S01,Ewing sarcoma
+TH27_1408_S01,alveolar soft part sarcoma
+TH27_1409_S01,alveolar rhabdomyosarcoma
+TH27_1410_S01,spindle cell/sclerosing rhabdomyosarcoma
+TH27_1410_S02,spindle cell/sclerosing rhabdomyosarcoma
+TH34_1414_S01,alveolar rhabdomyosarcoma
+TH34_1415_S01,CIC rearranged sarcoma
+TH38_1423_S02,sarcoma
+TH38_1425_S02,sarcoma
+TH34_1447_S01,undifferentiated hepatic sarcoma
+TH34_1447_S02,undifferentiated hepatic sarcoma
+TH03_0146_S01,CIC rearranged sarcoma
+TH03_0156_S01,synovial sarcoma
+TH03_0157_S01,Ewing sarcoma
+TH03_0018_S01,undifferentiated pleomorphic sarcoma
+TH03_0018_S02,undifferentiated pleomorphic sarcoma
+THR24_2137_S01,embryonal rhabdomyosarcoma
+THR24_2138_S01,embryonal rhabdomyosarcoma
+THR24_2139_S01,embryonal rhabdomyosarcoma
+THR24_2140_S01,embryonal rhabdomyosarcoma
+THR24_2141_S01,embryonal rhabdomyosarcoma
+THR24_2142_S01,alveolar rhabdomyosarcoma
+THR24_2143_S01,alveolar rhabdomyosarcoma
+THR24_2144_S01,alveolar rhabdomyosarcoma
+THR24_2145_S01,alveolar rhabdomyosarcoma
+THR24_2146_S01,embryonal rhabdomyosarcoma
+THR24_2147_S01,embryonal rhabdomyosarcoma
+THR24_2147_S02,embryonal rhabdomyosarcoma
+THR24_2147_S03,embryonal rhabdomyosarcoma
+THR24_2148_S01,embryonal rhabdomyosarcoma
+THR24_2149_S01,alveolar rhabdomyosarcoma
+THR24_2150_S01,embryonal rhabdomyosarcoma
+THR24_2151_S01,rhabdomyosarcoma
+THR24_2152_S01,rhabdomyosarcoma
+THR24_2153_S01,alveolar rhabdomyosarcoma
+THR24_2154_S01,embryonal rhabdomyosarcoma
+THR24_2155_S01,alveolar rhabdomyosarcoma
+THR24_2156_S01,embryonal rhabdomyosarcoma
+THR24_2157_S01,embryonal rhabdomyosarcoma
+THR24_2157_S02,embryonal rhabdomyosarcoma
+THR24_2157_S03,embryonal rhabdomyosarcoma
+THR24_2158_S01,embryonal rhabdomyosarcoma
+THR24_2159_S01,embryonal rhabdomyosarcoma
+THR24_2160_S01,embryonal rhabdomyosarcoma
+THR24_2161_S01,alveolar rhabdomyosarcoma
+THR24_2162_S01,embryonal rhabdomyosarcoma
+THR24_2163_S01,alveolar rhabdomyosarcoma
+THR24_2164_S01,alveolar rhabdomyosarcoma
+THR24_2165_S01,alveolar rhabdomyosarcoma
+THR24_2167_S01,spindle cell/sclerosing rhabdomyosarcoma
+THR24_2168_S01,alveolar rhabdomyosarcoma
+THR24_2169_S01,embryonal rhabdomyosarcoma
+THR24_2170_S01,embryonal rhabdomyosarcoma
+THR24_2171_S01,embryonal rhabdomyosarcoma
+THR24_2172_S01,embryonal rhabdomyosarcoma
+THR24_2173_S01,alveolar rhabdomyosarcoma
+THR24_2174_S01,embryonal rhabdomyosarcoma
+THR24_2175_S01,embryonal rhabdomyosarcoma
+TH27_2185_S01,synovial sarcoma
+TH40_2202_S01,embryonal rhabdomyosarcoma
+TH40_2202_S02,embryonal rhabdomyosarcoma
+TH40_2202_S03,embryonal rhabdomyosarcoma
+TH40_2205_S01,Ewing sarcoma
+TH40_2206_S01,gliosarcoma
+TH40_2212_S01,embryonal rhabdomyosarcoma
+TH40_2213_S01,synovial sarcoma
+TH40_2213_S02,synovial sarcoma
+TH40_2220_S01,embryonal rhabdomyosarcoma
+TH40_2221_S01,undifferentiated sarcoma NOS
+TH40_2232_S01,embryonal rhabdomyosarcoma
+TH40_2234_S01,BCOR rearranged sarcoma
+TH40_2234_S02,BCOR rearranged sarcoma
+TH40_2236_S01,embryonal rhabdomyosarcoma
+TH40_2236_S02,embryonal rhabdomyosarcoma
+TH40_2238_S01,epithelioid sarcoma
+TH40_2241_S01,synovial sarcoma
+TH40_2242_S01,CIC rearranged sarcoma
+TH40_2247_S01,Ewing sarcoma
+TH40_2259_S01,Ewing sarcoma
+TH40_2278_S01,epithelioid sarcoma
+TH40_2281_S01,synovial sarcoma
+TH40_2286_S01,pleomorphic myxoid liposarcoma
+TH40_2287_S01,embryonal rhabdomyosarcoma
+TH40_2288_S01,alveolar rhabdomyosarcoma
+TH34_2293_S01,sclerosing epithelioid fibrosarcoma
+TH27_2349_S01,embryonal rhabdomyosarcoma
+TH34_2351_S01,embryonal rhabdomyosarcoma
+TH27_2407_S01,embryonal rhabdomyosarcoma
+TH34_2410_S01,endometrial stromal sarcoma
+TH27_2663_S02,rhabdomyosarcoma
+TH34_2666_S01,soft tissue sarcoma
+TH27_2700_S01,sarcoma
+TH27_2700_S02,sarcoma
+TH27_2701_S01,rhabdomyosarcoma
+THR24_2767_S01,embryonal rhabdomyosarcoma
+TH03_0003_S01,undifferentiated sarcoma NOS
+TH03_0003_S03,undifferentiated sarcoma NOS
+TH03_0003_S04,undifferentiated sarcoma NOS
+TH27_4425_S01,Ewing sarcoma
+THR49_4446_S01,synovial sarcoma
+THR49_4447_S01,synovial sarcoma
+THR49_4447_S02,synovial sarcoma
+TH27_4503_S01,sarcoma
+THR52_4573_S01,synovial sarcoma
+THR52_4574_S01,low grade fibromyxoid sarcoma
+THR52_4575_S01,synovial sarcoma
+THR52_4576_S01,low grade fibromyxoid sarcoma
+THR53_4586_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4587_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4588_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4589_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4590_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4591_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4592_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4593_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4594_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4595_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4605_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4606_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4607_S01,SMARCA4-deficient thoracic sarcoma
+THR53_4608_S01,undifferentiated sarcoma NOS
+THR53_4609_S01,undifferentiated spindle cell sarcoma
+THR53_4610_S01,undifferentiated pleomorphic sarcoma
+THR53_4611_S01,undifferentiated sarcoma NOS
+THR53_4612_S01,synovial sarcoma
+THR54_4613_S01,synovial sarcoma
+THR54_4623_S01,synovial sarcoma
+THR54_4630_S01,epithelioid sarcoma
+THR54_4632_S01,liposarcoma
+THR54_4637_S01,sarcoma
+THR54_4650_S01,liposarcoma
+THR54_4652_S01,epithelioid sarcoma
+THR54_4653_S01,liposarcoma
+THR54_4655_S01,rhabdomyosarcoma
+THR54_4656_S01,synovial sarcoma
+THR52_4660_S01,angiosarcoma
+THR52_4661_S01,angiosarcoma
+THR52_4662_S01,angiosarcoma
+THR52_4663_S01,undifferentiated sarcoma NOS
+THR52_4664_S01,undifferentiated pleomorphic sarcoma
+THR52_4665_S01,angiosarcoma
+THR52_4666_S01,undifferentiated pleomorphic sarcoma
+THR52_4667_S01,angiosarcoma
+THR52_4668_S01,leiomyosarcoma
+THR52_4669_S01,leiomyosarcoma
+THR52_4670_S01,undifferentiated pleomorphic sarcoma
+THR52_4671_S01,pleomorphic rhabdomyosarcoma
+THR52_4672_S01,leiomyosarcoma
+THR52_4673_S01,undifferentiated spindle cell sarcoma
+THR52_4674_S01,leiomyosarcoma
+THR52_4676_S01,undifferentiated sarcoma NOS
+THR52_4677_S01,angiosarcoma
+THR52_4679_S01,myxofibrosarcoma
+THR52_4680_S01,undifferentiated pleomorphic sarcoma
+THR52_4681_S01,undifferentiated pleomorphic sarcoma
+THR52_4682_S01,leiomyosarcoma
+THR52_4683_S01,myxofibrosarcoma
+THR52_4684_S01,undifferentiated pleomorphic sarcoma
+THR52_4685_S01,angiosarcoma
+THR52_4686_S01,liposarcoma
+THR52_4687_S01,leiomyosarcoma
+THR52_4688_S01,undifferentiated pleomorphic sarcoma
+THR52_4689_S01,angiosarcoma
+THR52_4691_S01,myxofibrosarcoma
+THR52_4692_S01,leiomyosarcoma
+THR52_4693_S01,leiomyosarcoma
+THR52_4694_S01,undifferentiated pleomorphic sarcoma
+THR52_4695_S01,angiosarcoma
+THR52_4696_S01,angiosarcoma
+THR52_4697_S01,angiosarcoma
+THR52_4698_S01,undifferentiated spindle cell sarcoma
+THR52_4699_S01,undifferentiated pleomorphic sarcoma
+THR52_4700_S01,liposarcoma
+THR52_4701_S01,angiosarcoma
+THR52_4703_S01,leiomyosarcoma
+THR52_4704_S01,undifferentiated pleomorphic sarcoma
+THR52_4705_S01,undifferentiated pleomorphic sarcoma
+THR52_4706_S01,undifferentiated spindle cell sarcoma
+THR52_4709_S01,leiomyosarcoma
+THR52_4714_S01,myxofibrosarcoma
+THR52_4715_S01,angiosarcoma
+THR52_4716_S01,angiosarcoma
+THR52_4717_S01,myxofibrosarcoma
+THR52_4718_S01,undifferentiated pleomorphic sarcoma
+THR52_4719_S01,undifferentiated pleomorphic sarcoma
+THR52_4721_S01,angiosarcoma
+THR52_4722_S01,undifferentiated pleomorphic sarcoma
+THR52_4723_S01,leiomyosarcoma
+THR52_4725_S01,liposarcoma
+THR52_4727_S01,undifferentiated pleomorphic sarcoma
+THR52_4728_S01,angiosarcoma
+THR52_4729_S01,undifferentiated pleomorphic sarcoma
+THR52_4730_S01,angiosarcoma
+THR52_4731_S01,undifferentiated pleomorphic sarcoma
+THR52_4733_S01,angiosarcoma
+THR52_4734_S01,undifferentiated pleomorphic sarcoma
+THR52_4735_S01,myxofibrosarcoma
+THR52_4736_S01,angiosarcoma
+THR49_4738_S01,rhabdomyosarcoma
+THR49_4747_S01,undifferentiated sarcoma NOS
+THR49_4749_S01,Ewing sarcoma
+THR49_4749_S02,Ewing sarcoma
+THR49_4750_S01,Ewing sarcoma
+THR49_4752_S01,Ewing sarcoma
+THR49_4754_S01,Ewing sarcoma
+THR49_4756_S01,rhabdomyosarcoma
+THR49_4757_S01,clear cell sarcoma of the kidney
+THR49_4761_S01,Ewing sarcoma
+THR49_4765_S01,Ewing sarcoma
+THR49_4765_S02,Ewing sarcoma
+THR49_4768_S01,Ewing sarcoma
+THR49_4768_S02,Ewing sarcoma
+THR49_4773_S01,alveolar soft part sarcoma
+THR49_4773_S02,alveolar soft part sarcoma
+THR49_4774_S01,CIC rearranged sarcoma
+THR49_4774_S02,CIC rearranged sarcoma
+THR49_4775_S01,Ewing sarcoma
+THR49_4794_S02,Ewing sarcoma
+THR49_4794_S03,Ewing sarcoma
+THR49_4797_S01,rhabdomyosarcoma
+THR49_4798_S01,Ewing sarcoma
+THR55_4810_S01,alveolar rhabdomyosarcoma
+THR55_4811_S01,alveolar rhabdomyosarcoma
+THR55_4812_S01,alveolar rhabdomyosarcoma
+THR55_4813_S01,alveolar rhabdomyosarcoma
+THR55_4814_S01,alveolar rhabdomyosarcoma
+THR55_4816_S01,alveolar rhabdomyosarcoma
+THR55_4817_S01,Ewing sarcoma
+THR55_4818_S01,alveolar rhabdomyosarcoma
+THR55_4819_S01,embryonal rhabdomyosarcoma
+THR52_4873_S01,leiomyosarcoma
+THR52_4874_S01,leiomyosarcoma
+THR52_4875_S01,leiomyosarcoma
+THR52_4876_S01,leiomyosarcoma
+THR52_4878_S01,leiomyosarcoma
+THR52_4880_S01,myxofibrosarcoma
+THR52_4881_S01,undifferentiated pleomorphic sarcoma
+THR52_4882_S01,undifferentiated pleomorphic sarcoma
+THR52_4883_S01,undifferentiated pleomorphic sarcoma
+THR52_4884_S01,liposarcoma
+THR52_4885_S01,undifferentiated pleomorphic sarcoma
+THR52_4886_S01,myxofibrosarcoma
+THR52_4888_S01,leiomyosarcoma
+THR52_4889_S01,leiomyosarcoma
+THR52_4890_S01,undifferentiated pleomorphic sarcoma
+THR52_4891_S01,liposarcoma
+THR52_4894_S01,undifferentiated pleomorphic sarcoma
+THR52_4895_S01,leiomyosarcoma
+THR52_4896_S01,liposarcoma
+THR52_4897_S01,undifferentiated pleomorphic sarcoma
+THR52_4898_S01,leiomyosarcoma
+THR52_4900_S01,myxofibrosarcoma
+THR52_4901_S01,liposarcoma
+THR52_4902_S01,leiomyosarcoma
+THR52_4903_S01,leiomyosarcoma
+THR52_4904_S01,leiomyosarcoma
+THR52_4905_S01,liposarcoma
+THR52_4908_S01,leiomyosarcoma
+THR52_4909_S01,liposarcoma
+THR52_4910_S01,undifferentiated pleomorphic sarcoma
+THR52_4912_S01,undifferentiated pleomorphic sarcoma
+THR52_4913_S01,leiomyosarcoma
+THR52_4915_S01,undifferentiated pleomorphic sarcoma
+THR52_4916_S01,undifferentiated pleomorphic sarcoma
+THR52_4917_S01,undifferentiated pleomorphic sarcoma
+THR52_4918_S01,liposarcoma
+THR52_4919_S01,undifferentiated pleomorphic sarcoma
+THR52_4920_S01,liposarcoma
+THR52_4921_S01,liposarcoma
+THR52_4922_S01,undifferentiated pleomorphic sarcoma
+THR52_4923_S01,leiomyosarcoma
+THR52_4924_S01,liposarcoma
+THR52_4925_S01,leiomyosarcoma
+THR52_4926_S01,liposarcoma
+THR52_4927_S01,liposarcoma
+THR52_4928_S01,leiomyosarcoma
+THR52_4929_S01,undifferentiated pleomorphic sarcoma
+THR52_4930_S01,leiomyosarcoma
+THR52_4931_S01,leiomyosarcoma
+THR52_4932_S01,liposarcoma
+THR52_4933_S01,undifferentiated pleomorphic sarcoma
+THR52_4934_S01,undifferentiated pleomorphic sarcoma
+THR52_4935_S01,leiomyosarcoma
+THR52_4936_S01,undifferentiated pleomorphic sarcoma
+THR52_4937_S01,undifferentiated pleomorphic sarcoma
+THR52_4938_S01,leiomyosarcoma
+THR52_4939_S01,myxofibrosarcoma
+THR52_4940_S01,leiomyosarcoma
+THR52_4941_S01,leiomyosarcoma
+THR52_4942_S01,liposarcoma
+THR52_4943_S01,undifferentiated pleomorphic sarcoma
+THR52_4944_S01,myxofibrosarcoma
+THR52_4945_S01,leiomyosarcoma
+THR52_4946_S01,liposarcoma
+THR52_4947_S01,liposarcoma
+THR52_4948_S01,liposarcoma
+THR52_4949_S01,undifferentiated pleomorphic sarcoma
+THR52_4950_S01,leiomyosarcoma
+THR52_4951_S01,myxofibrosarcoma
+THR52_4952_S01,undifferentiated pleomorphic sarcoma
+THR52_4953_S01,pleomorphic rhabdomyosarcoma
+THR52_4954_S01,pleomorphic rhabdomyosarcoma
+THR52_4955_S01,liposarcoma
+THR52_4956_S01,undifferentiated pleomorphic sarcoma
+THR52_4957_S01,liposarcoma
+THR52_4958_S01,myxofibrosarcoma
+THR52_4959_S01,undifferentiated pleomorphic sarcoma
+THR52_4960_S01,myxofibrosarcoma
+THR52_4961_S01,liposarcoma
+THR52_4962_S01,leiomyosarcoma
+THR52_4963_S01,myxofibrosarcoma
+THR52_4964_S01,undifferentiated pleomorphic sarcoma
+THR52_4965_S01,liposarcoma
+THR52_4966_S01,undifferentiated pleomorphic sarcoma
+THR52_4967_S01,leiomyosarcoma
+THR52_4968_S01,liposarcoma
+THR52_4969_S01,leiomyosarcoma
+THR52_4970_S01,undifferentiated pleomorphic sarcoma
+THR52_4971_S01,undifferentiated pleomorphic sarcoma
+THR52_4972_S01,undifferentiated pleomorphic sarcoma
+THR52_4973_S01,liposarcoma
+THR52_4974_S01,myxofibrosarcoma
+THR52_4975_S01,undifferentiated pleomorphic sarcoma
+THR52_4976_S01,undifferentiated pleomorphic sarcoma
+THR52_4977_S01,pleomorphic rhabdomyosarcoma
+THR52_4978_S01,undifferentiated pleomorphic sarcoma
+THR52_4979_S01,leiomyosarcoma
+THR52_4980_S01,liposarcoma
+THR52_4981_S01,liposarcoma
+THR52_4982_S01,myxofibrosarcoma
+THR52_4983_S01,leiomyosarcoma
+THR52_4984_S01,undifferentiated pleomorphic sarcoma
+THR52_4985_S01,undifferentiated pleomorphic sarcoma
+THR52_4986_S01,pleomorphic rhabdomyosarcoma
+THR52_4987_S01,myxofibrosarcoma
+THR52_4988_S01,leiomyosarcoma
+THR52_4989_S01,undifferentiated pleomorphic sarcoma
+THR52_4990_S01,undifferentiated pleomorphic sarcoma
+THR52_4991_S01,leiomyosarcoma
+THR52_4992_S01,myxofibrosarcoma
+THR52_4993_S01,undifferentiated pleomorphic sarcoma
+THR52_4994_S01,leiomyosarcoma
+THR52_4995_S01,undifferentiated pleomorphic sarcoma
+THR52_4996_S01,myxofibrosarcoma
+THR52_4997_S01,undifferentiated pleomorphic sarcoma
+THR52_4998_S01,leiomyosarcoma
+THR52_4999_S01,leiomyosarcoma
+THR52_5000_S01,undifferentiated pleomorphic sarcoma
+THR52_5001_S01,myxofibrosarcoma
+THR52_5002_S01,undifferentiated pleomorphic sarcoma
+THR52_5003_S01,myxofibrosarcoma
+THR52_5004_S01,leiomyosarcoma
+THR52_5005_S01,leiomyosarcoma
+THR52_5006_S01,undifferentiated pleomorphic sarcoma
+THR52_5007_S01,leiomyosarcoma
+THR52_5008_S01,undifferentiated pleomorphic sarcoma
+THR52_5009_S01,leiomyosarcoma
+THR52_5011_S01,pleomorphic rhabdomyosarcoma
+THR52_5012_S01,myxofibrosarcoma
+THR52_5013_S01,undifferentiated pleomorphic sarcoma
+THR52_5014_S01,liposarcoma
+THR52_5016_S01,myxofibrosarcoma
+THR52_5017_S01,leiomyosarcoma
+TH03_0006_S01,embryonal rhabdomyosarcoma
+TH03_0006_S03,embryonal rhabdomyosarcoma
+TH06_0610_S01,sarcoma
+TH06_0615_S01,Ewing sarcoma
+TH06_0619_S01,angiosarcoma
+TH06_0623_S01,alveolar rhabdomyosarcoma
+THR28_0686_S01,embryonal rhabdomyosarcoma
+THR28_0687_S01,embryonal rhabdomyosarcoma
+THR28_0688_S01,embryonal rhabdomyosarcoma
+TH27_0691_S01,Ewing sarcoma
+TH27_0696_S01,Ewing sarcoma
+TH27_0702_S01,alveolar rhabdomyosarcoma
+THR29_0720_S01,alveolar rhabdomyosarcoma
+THR29_0721_S01,alveolar rhabdomyosarcoma
+THR29_0722_S01,embryonal rhabdomyosarcoma
+THR29_0723_S01,alveolar rhabdomyosarcoma
+THR29_0724_S01,alveolar rhabdomyosarcoma
+THR29_0725_S01,embryonal rhabdomyosarcoma
+THR29_0726_S01,alveolar rhabdomyosarcoma
+THR29_0727_S01,alveolar rhabdomyosarcoma
+THR29_0728_S01,embryonal rhabdomyosarcoma
+THR29_0729_S01,alveolar rhabdomyosarcoma
+THR29_0730_S01,embryonal rhabdomyosarcoma
+THR29_0731_S01,spindle cell/sclerosing rhabdomyosarcoma
+THR29_0732_S01,embryonal rhabdomyosarcoma
+THR29_0733_S01,embryonal rhabdomyosarcoma
+THR29_0734_S01,alveolar rhabdomyosarcoma
+THR29_0735_S01,embryonal rhabdomyosarcoma
+THR29_0736_S01,embryonal rhabdomyosarcoma
+THR29_0737_S01,alveolar rhabdomyosarcoma
+THR29_0738_S01,alveolar rhabdomyosarcoma
+THR29_0739_S01,alveolar rhabdomyosarcoma
+THR29_0740_S01,embryonal rhabdomyosarcoma
+THR29_0741_S01,embryonal rhabdomyosarcoma
+THR29_0742_S01,alveolar rhabdomyosarcoma
+THR29_0743_S01,alveolar rhabdomyosarcoma
+THR29_0744_S01,alveolar rhabdomyosarcoma
+THR29_0745_S01,embryonal rhabdomyosarcoma
+THR29_0746_S01,alveolar rhabdomyosarcoma
+THR29_0747_S01,embryonal rhabdomyosarcoma
+THR29_0748_S01,embryonal rhabdomyosarcoma
+THR29_0749_S01,embryonal rhabdomyosarcoma
+THR29_0750_S01,embryonal rhabdomyosarcoma
+THR29_0751_S01,alveolar rhabdomyosarcoma
+THR29_0752_S01,embryonal rhabdomyosarcoma
+THR29_0753_S01,alveolar rhabdomyosarcoma
+THR29_0754_S01,alveolar rhabdomyosarcoma
+THR29_0755_S01,alveolar rhabdomyosarcoma
+THR29_0756_S01,alveolar rhabdomyosarcoma
+THR29_0757_S01,alveolar rhabdomyosarcoma
+THR29_0758_S01,alveolar rhabdomyosarcoma
+THR29_0759_S01,embryonal rhabdomyosarcoma
+THR29_0760_S01,alveolar rhabdomyosarcoma
+THR29_0761_S01,embryonal rhabdomyosarcoma
+THR29_0762_S01,alveolar rhabdomyosarcoma
+THR29_0763_S01,embryonal rhabdomyosarcoma
+THR29_0764_S01,spindle cell/sclerosing rhabdomyosarcoma
+THR29_0765_S01,embryonal rhabdomyosarcoma
+THR29_0766_S01,spindle cell/sclerosing rhabdomyosarcoma
+THR29_0767_S01,embryonal rhabdomyosarcoma
+THR29_0768_S01,embryonal rhabdomyosarcoma
+THR29_0769_S01,alveolar rhabdomyosarcoma
+THR29_0770_S01,embryonal rhabdomyosarcoma
+THR29_0771_S01,alveolar rhabdomyosarcoma
+THR29_0772_S01,alveolar rhabdomyosarcoma
+THR29_0773_S01,alveolar rhabdomyosarcoma
+THR29_0774_S01,alveolar rhabdomyosarcoma
+THR29_0775_S01,alveolar rhabdomyosarcoma
+THR29_0776_S01,embryonal rhabdomyosarcoma
+THR29_0777_S01,embryonal rhabdomyosarcoma
+THR29_0778_S01,embryonal rhabdomyosarcoma
+THR29_0779_S01,embryonal rhabdomyosarcoma
+THR29_0780_S01,alveolar rhabdomyosarcoma
+THR29_0781_S01,embryonal rhabdomyosarcoma
+THR29_0782_S01,embryonal rhabdomyosarcoma
+THR29_0783_S01,embryonal rhabdomyosarcoma
+THR29_0784_S01,embryonal rhabdomyosarcoma
+THR29_0785_S01,embryonal rhabdomyosarcoma
+THR29_0786_S01,embryonal rhabdomyosarcoma
+THR29_0787_S01,alveolar rhabdomyosarcoma
+THR29_0788_S01,alveolar rhabdomyosarcoma
+THR29_0789_S01,embryonal rhabdomyosarcoma
+THR29_0790_S01,alveolar rhabdomyosarcoma
+THR29_0791_S01,embryonal rhabdomyosarcoma
+THR29_0792_S01,embryonal rhabdomyosarcoma
+THR29_0793_S01,embryonal rhabdomyosarcoma
+THR29_0794_S01,alveolar rhabdomyosarcoma
+THR29_0795_S01,alveolar rhabdomyosarcoma
+THR29_0796_S01,alveolar rhabdomyosarcoma
+THR29_0797_S01,embryonal rhabdomyosarcoma
+THR29_0798_S01,embryonal rhabdomyosarcoma
+THR29_0799_S01,embryonal rhabdomyosarcoma
+THR29_0800_S01,alveolar rhabdomyosarcoma
+THR29_0801_S01,alveolar rhabdomyosarcoma
+THR29_0802_S01,alveolar rhabdomyosarcoma
+THR29_0803_S01,alveolar rhabdomyosarcoma
+THR30_0804_S01,Ewing sarcoma
+THR30_0805_S01,Ewing sarcoma
+THR30_0806_S01,Ewing sarcoma
+THR30_0807_S01,Ewing sarcoma
+THR30_0808_S01,Ewing sarcoma
+THR30_0809_S01,Ewing sarcoma
+THR30_0810_S01,Ewing sarcoma
+THR30_0811_S01,Ewing sarcoma
+THR30_0812_S01,Ewing sarcoma
+THR30_0813_S01,Ewing sarcoma
+THR30_0814_S01,Ewing sarcoma
+THR30_0815_S01,Ewing sarcoma
+THR30_0816_S01,Ewing sarcoma
+THR30_0817_S01,Ewing sarcoma
+THR30_0818_S01,Ewing sarcoma
+THR30_0819_S01,Ewing sarcoma
+THR30_0820_S01,Ewing sarcoma
+THR30_0821_S01,Ewing sarcoma
+THR30_0822_S01,Ewing sarcoma
+THR30_0823_S01,Ewing sarcoma
+THR30_0824_S01,Ewing sarcoma
+THR30_0825_S01,Ewing sarcoma
+THR30_0826_S01,Ewing sarcoma
+THR30_0827_S01,Ewing sarcoma
+THR30_0828_S01,Ewing sarcoma
+THR30_0829_S01,Ewing sarcoma
+THR30_0830_S01,Ewing sarcoma
+THR30_0831_S01,Ewing sarcoma
+THR30_0832_S01,Ewing sarcoma
+THR30_0833_S01,Ewing sarcoma
+THR30_0834_S01,Ewing sarcoma
+THR30_0835_S01,Ewing sarcoma
+THR30_0836_S01,Ewing sarcoma
+THR30_0837_S01,Ewing sarcoma
+THR30_0838_S01,Ewing sarcoma
+THR30_0839_S01,Ewing sarcoma
+THR30_0840_S01,Ewing sarcoma
+THR30_0841_S01,Ewing sarcoma
+THR30_0842_S01,Ewing sarcoma
+THR30_0843_S01,Ewing sarcoma
+THR30_0844_S01,Ewing sarcoma
+THR30_0845_S01,Ewing sarcoma
+THR30_0846_S01,Ewing sarcoma
+THR30_0847_S01,Ewing sarcoma
+THR30_0848_S01,Ewing sarcoma
+THR30_0849_S01,Ewing sarcoma
+THR30_0850_S01,Ewing sarcoma
+THR30_0851_S01,Ewing sarcoma
+THR30_0852_S01,Ewing sarcoma
+THR30_0853_S01,Ewing sarcoma
+THR30_0854_S01,Ewing sarcoma
+THR30_0855_S01,Ewing sarcoma
+THR30_0856_S01,Ewing sarcoma
+THR30_0857_S01,Ewing sarcoma
+THR30_0858_S01,Ewing sarcoma
+THR30_0859_S01,Ewing sarcoma
+THR30_0860_S01,Ewing sarcoma
+THR30_0861_S01,Ewing sarcoma
+THR30_0862_S01,Ewing sarcoma
+THR30_0863_S01,Ewing sarcoma
+THR30_0864_S01,Ewing sarcoma
+THR30_0865_S01,Ewing sarcoma
+THR31_0869_S01,alveolar rhabdomyosarcoma
+THR31_0872_S01,alveolar rhabdomyosarcoma
+THR31_0886_S01,alveolar rhabdomyosarcoma
+THR31_0888_S01,rhabdomyosarcoma
+THR31_0892_S01,undifferentiated spindle cell sarcoma
+THR31_0894_S01,epithelioid sarcoma
+THR31_0906_S01,Ewing sarcoma
+THR31_0911_S01,undifferentiated sarcoma NOS
+THR31_0919_S01,embryonal rhabdomyosarcoma
+THR31_0921_S01,undifferentiated embryonal sarcoma of the liver
+THR31_0936_S01,undifferentiated spindle cell sarcoma
+THR31_0937_S01,Ewing sarcoma
+THR31_0939_S01,undifferentiated sarcoma NOS
+THR32_0947_S01,Ewing sarcoma
+TH27_0976_S01,synovial sarcoma
+TCGA-3B-A9HJ-01,liposarcoma
+TCGA-3B-A9HL-01,liposarcoma
+TCGA-3B-A9HO-01,liposarcoma
+TCGA-3B-A9HP-01,leiomyosarcoma
+TCGA-3B-A9HQ-01,leiomyosarcoma
+TCGA-3B-A9HR-01,leiomyosarcoma
+TCGA-3B-A9HS-01,liposarcoma
+TCGA-3B-A9HT-01,leiomyosarcoma
+TCGA-3B-A9HU-01,leiomyosarcoma
+TCGA-3B-A9HV-01,leiomyosarcoma
+TCGA-3B-A9HX-01,leiomyosarcoma
+TCGA-3B-A9HY-01,leiomyosarcoma
+TCGA-3B-A9HZ-01,leiomyosarcoma
+TCGA-3B-A9I0-01,leiomyosarcoma
+TCGA-3B-A9I1-01,leiomyosarcoma
+TCGA-3B-A9I3-01,leiomyosarcoma
+TCGA-3R-A8YX-01,liposarcoma
+TCGA-DX-A1KU-01,liposarcoma
+TCGA-DX-A1KW-01,liposarcoma
+TCGA-DX-A1KX-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A1KY-01,liposarcoma
+TCGA-DX-A1KZ-01,liposarcoma
+TCGA-DX-A1L0-01,liposarcoma
+TCGA-DX-A1L1-01,liposarcoma
+TCGA-DX-A1L2-01,liposarcoma
+TCGA-DX-A1L3-01,liposarcoma
+TCGA-DX-A1L4-01,liposarcoma
+TCGA-DX-A23R-01,liposarcoma
+TCGA-DX-A23T-01,liposarcoma
+TCGA-DX-A23U-01,liposarcoma
+TCGA-DX-A23V-01,liposarcoma
+TCGA-DX-A23Y-01,liposarcoma
+TCGA-DX-A23Z-01,liposarcoma
+TCGA-DX-A240-01,liposarcoma
+TCGA-DX-A2IZ-01,liposarcoma
+TCGA-DX-A2J0-01,liposarcoma
+TCGA-DX-A2J1-01,liposarcoma
+TCGA-DX-A2J4-01,liposarcoma
+TCGA-DX-A3LS-01,liposarcoma
+TCGA-DX-A3LT-01,liposarcoma
+TCGA-DX-A3LU-01,liposarcoma
+TCGA-DX-A3LW-01,liposarcoma
+TCGA-DX-A3LY-01,liposarcoma
+TCGA-DX-A3M1-01,liposarcoma
+TCGA-DX-A3M2-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A3U5-01,liposarcoma
+TCGA-DX-A3U6-01,liposarcoma
+TCGA-DX-A3U7-01,leiomyosarcoma
+TCGA-DX-A3U8-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A3U9-01,leiomyosarcoma
+TCGA-DX-A3UA-01,leiomyosarcoma
+TCGA-DX-A3UB-01,leiomyosarcoma
+TCGA-DX-A3UC-01,leiomyosarcoma
+TCGA-DX-A3UD-01,leiomyosarcoma
+TCGA-DX-A3UE-01,leiomyosarcoma
+TCGA-DX-A3UF-01,leiomyosarcoma
+TCGA-DX-A48J-01,leiomyosarcoma
+TCGA-DX-A48K-01,leiomyosarcoma
+TCGA-DX-A48L-01,leiomyosarcoma
+TCGA-DX-A48N-01,liposarcoma
+TCGA-DX-A48O-01,leiomyosarcoma
+TCGA-DX-A48P-01,leiomyosarcoma
+TCGA-DX-A48R-01,leiomyosarcoma
+TCGA-DX-A48U-01,leiomyosarcoma
+TCGA-DX-A6B7-01,leiomyosarcoma
+TCGA-DX-A6B8-01,leiomyosarcoma
+TCGA-DX-A6B9-01,leiomyosarcoma
+TCGA-DX-A6BA-01,leiomyosarcoma
+TCGA-DX-A6BB-01,leiomyosarcoma
+TCGA-DX-A6BE-01,liposarcoma
+TCGA-DX-A6BF-01,liposarcoma
+TCGA-DX-A6BG-01,liposarcoma
+TCGA-DX-A6BH-01,liposarcoma
+TCGA-DX-A6YQ-01,myxofibrosarcoma
+TCGA-DX-A6YR-01,myxofibrosarcoma
+TCGA-DX-A6YS-01,fibromyxosarcoma
+TCGA-DX-A6YT-01,fibromyxosarcoma
+TCGA-DX-A6YU-01,myxofibrosarcoma
+TCGA-DX-A6YV-01,fibromyxosarcoma
+TCGA-DX-A6YX-01,myxofibrosarcoma
+TCGA-DX-A6YZ-01,fibromyxosarcoma
+TCGA-DX-A6Z0-01,myxofibrosarcoma
+TCGA-DX-A6Z2-01,leiomyosarcoma
+TCGA-DX-A7EF-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A7EI-01,liposarcoma
+TCGA-DX-A7EL-01,leiomyosarcoma
+TCGA-DX-A7EM-01,leiomyosarcoma
+TCGA-DX-A7EN-01,leiomyosarcoma
+TCGA-DX-A7EO-01,synovial sarcoma
+TCGA-DX-A7EQ-01,synovial sarcoma
+TCGA-DX-A7ER-01,synovial sarcoma
+TCGA-DX-A7ES-01,liposarcoma
+TCGA-DX-A7ET-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A7EU-01,fibromyxosarcoma
+TCGA-DX-A8BG-01,fibromyxosarcoma
+TCGA-DX-A8BH-01,myxofibrosarcoma
+TCGA-DX-A8BJ-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A8BK-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A8BL-01,myxofibrosarcoma
+TCGA-DX-A8BM-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A8BN-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A8BO-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A8BR-01,myxofibrosarcoma
+TCGA-DX-A8BS-01,undifferentiated sarcoma NOS
+TCGA-DX-A8BT-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A8BU-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A8BV-01,myxofibrosarcoma
+TCGA-DX-A8BX-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-A8BZ-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-AATS-01,undifferentiated sarcoma NOS
+TCGA-DX-AB2E-01,myxofibrosarcoma
+TCGA-DX-AB2F-01,liposarcoma
+TCGA-DX-AB2G-01,liposarcoma
+TCGA-DX-AB2H-01,liposarcoma
+TCGA-DX-AB2J-01,undifferentiated sarcoma NOS
+TCGA-DX-AB2L-01,fibromyxosarcoma
+TCGA-DX-AB2O-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-AB2P-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-AB2Q-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-AB2S-01,liposarcoma
+TCGA-DX-AB2T-01,myxofibrosarcoma
+TCGA-DX-AB2V-01,myxofibrosarcoma
+TCGA-DX-AB2W-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-AB2X-01,myxofibrosarcoma
+TCGA-DX-AB2Z-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-AB30-01,fibromyxosarcoma
+TCGA-DX-AB32-01,undifferentiated pleomorphic sarcoma
+TCGA-DX-AB35-01,liposarcoma
+TCGA-DX-AB36-01,liposarcoma
+TCGA-DX-AB37-01,liposarcoma
+TCGA-DX-AB3A-01,liposarcoma
+TCGA-DX-AB3B-01,synovial sarcoma
+TCGA-DX-AB3C-01,synovial sarcoma
+TCGA-FX-A2QS-01,liposarcoma
+TCGA-FX-A3NJ-01,leiomyosarcoma
+TCGA-FX-A3NK-01,liposarcoma
+TCGA-FX-A3RE-01,leiomyosarcoma
+TCGA-FX-A3TO-01,undifferentiated pleomorphic sarcoma
+TCGA-FX-A48G-01,leiomyosarcoma
+TCGA-FX-A76Y-01,leiomyosarcoma
+TCGA-FX-A8OO-01,synovial sarcoma
+TCGA-HB-A2OT-01,undifferentiated pleomorphic sarcoma
+TCGA-HB-A3L4-01,leiomyosarcoma
+TCGA-HB-A3YV-01,liposarcoma
+TCGA-HB-A43Z-01,leiomyosarcoma
+TCGA-HB-A5W3-01,leiomyosarcoma
+TCGA-HS-A5N7-01,leiomyosarcoma
+TCGA-HS-A5N8-01,leiomyosarcoma
+TCGA-HS-A5N9-01,leiomyosarcoma
+TCGA-HS-A5NA-01,leiomyosarcoma
+TCGA-IE-A3OV-01,leiomyosarcoma
+TCGA-IE-A4EH-01,leiomyosarcoma
+TCGA-IE-A4EI-01,leiomyosarcoma
+TCGA-IE-A4EJ-01,undifferentiated pleomorphic sarcoma
+TCGA-IE-A4EK-01,leiomyosarcoma
+TCGA-IE-A6BZ-01,myxofibrosarcoma
+TCGA-IF-A3RQ-01,liposarcoma
+TCGA-IF-A4AJ-01,leiomyosarcoma
+TCGA-IF-A4AK-01,leiomyosarcoma
+TCGA-IS-A3K6-01,leiomyosarcoma
+TCGA-IS-A3K7-01,leiomyosarcoma
+TCGA-IS-A3K8-01,leiomyosarcoma
+TCGA-IS-A3KA-01,leiomyosarcoma
+TCGA-IW-A3M4-01,leiomyosarcoma
+TCGA-IW-A3M5-01,leiomyosarcoma
+TCGA-IW-A3M6-01,leiomyosarcoma
+TCGA-JV-A5VE-01,leiomyosarcoma
+TCGA-JV-A5VF-01,leiomyosarcoma
+TCGA-JV-A75J-01,leiomyosarcoma
+TCGA-K1-A3PN-01,leiomyosarcoma
+TCGA-K1-A3PN-02,leiomyosarcoma
+TCGA-K1-A3PO-01,leiomyosarcoma
+TCGA-K1-A42W-01,leiomyosarcoma
+TCGA-K1-A42X-01,leiomyosarcoma
+TCGA-K1-A42X-02,leiomyosarcoma
+TCGA-K1-A6RT-01,leiomyosarcoma
+TCGA-K1-A6RU-01,undifferentiated pleomorphic sarcoma
+TCGA-K1-A6RV-01,leiomyosarcoma
+TCGA-KD-A5QS-01,leiomyosarcoma
+TCGA-KD-A5QT-01,leiomyosarcoma
+TCGA-KD-A5QU-01,leiomyosarcoma
+TCGA-KF-A41W-01,leiomyosarcoma
+TCGA-LI-A67I-01,fibromyxosarcoma
+TCGA-LI-A9QH-01,undifferentiated pleomorphic sarcoma
+TCGA-MB-A5Y8-01,undifferentiated pleomorphic sarcoma
+TCGA-MB-A5Y9-01,undifferentiated pleomorphic sarcoma
+TCGA-MB-A5YA-01,undifferentiated pleomorphic sarcoma
+TCGA-MB-A8JK-01,undifferentiated pleomorphic sarcoma
+TCGA-MB-A8JL-01,leiomyosarcoma
+TCGA-MJ-A68H-01,leiomyosarcoma
+TCGA-MJ-A68J-01,myxofibrosarcoma
+TCGA-MJ-A850-01,synovial sarcoma
+TCGA-MO-A47P-01,liposarcoma
+TCGA-MO-A47R-01,leiomyosarcoma
+TCGA-N1-A6IA-01,leiomyosarcoma
+TCGA-N5-A4R8-01,uterine carcinosarcoma
+TCGA-N5-A4RA-01,uterine carcinosarcoma
+TCGA-N5-A4RD-01,uterine carcinosarcoma
+TCGA-N5-A4RF-01,uterine carcinosarcoma
+TCGA-N5-A4RJ-01,uterine carcinosarcoma
+TCGA-N5-A4RM-01,uterine carcinosarcoma
+TCGA-N5-A4RN-01,uterine carcinosarcoma
+TCGA-N5-A4RO-01,uterine carcinosarcoma
+TCGA-N5-A4RS-01,uterine carcinosarcoma
+TCGA-N5-A4RT-01,uterine carcinosarcoma
+TCGA-N5-A4RU-01,uterine carcinosarcoma
+TCGA-N5-A4RV-01,uterine carcinosarcoma
+TCGA-N5-A59E-01,uterine carcinosarcoma
+TCGA-N5-A59F-01,uterine carcinosarcoma
+TCGA-N6-A4V9-01,uterine carcinosarcoma
+TCGA-N6-A4VC-01,uterine carcinosarcoma
+TCGA-N6-A4VD-01,uterine carcinosarcoma
+TCGA-N6-A4VE-01,uterine carcinosarcoma
+TCGA-N6-A4VF-01,uterine carcinosarcoma
+TCGA-N6-A4VG-01,uterine carcinosarcoma
+TCGA-N7-A4Y0-01,uterine carcinosarcoma
+TCGA-N7-A4Y5-01,uterine carcinosarcoma
+TCGA-N7-A4Y8-01,uterine carcinosarcoma
+TCGA-N7-A59B-01,uterine carcinosarcoma
+TCGA-N8-A4PI-01,uterine carcinosarcoma
+TCGA-N8-A4PL-01,uterine carcinosarcoma
+TCGA-N8-A4PM-01,uterine carcinosarcoma
+TCGA-N8-A4PN-01,uterine carcinosarcoma
+TCGA-N8-A4PO-01,uterine carcinosarcoma
+TCGA-N8-A4PP-01,uterine carcinosarcoma
+TCGA-N8-A4PQ-01,uterine carcinosarcoma
+TCGA-N8-A56S-01,uterine carcinosarcoma
+TCGA-N9-A4PZ-01,uterine carcinosarcoma
+TCGA-N9-A4Q1-01,uterine carcinosarcoma
+TCGA-N9-A4Q3-01,uterine carcinosarcoma
+TCGA-N9-A4Q4-01,uterine carcinosarcoma
+TCGA-N9-A4Q7-01,uterine carcinosarcoma
+TCGA-N9-A4Q8-01,uterine carcinosarcoma
+TCGA-NA-A4QV-01,uterine carcinosarcoma
+TCGA-NA-A4QW-01,uterine carcinosarcoma
+TCGA-NA-A4QX-01,uterine carcinosarcoma
+TCGA-NA-A4QY-01,uterine carcinosarcoma
+TCGA-NA-A4R0-01,uterine carcinosarcoma
+TCGA-NA-A4R1-01,uterine carcinosarcoma
+TCGA-NA-A5I1-01,uterine carcinosarcoma
+TCGA-ND-A4W6-01,uterine carcinosarcoma
+TCGA-ND-A4WA-01,uterine carcinosarcoma
+TCGA-ND-A4WC-01,uterine carcinosarcoma
+TCGA-ND-A4WF-01,uterine carcinosarcoma
+TCGA-NF-A4WU-01,uterine carcinosarcoma
+TCGA-NF-A4WX-01,uterine carcinosarcoma
+TCGA-NF-A4X2-01,uterine carcinosarcoma
+TCGA-NF-A5CP-01,uterine carcinosarcoma
+TCGA-NG-A4VU-01,uterine carcinosarcoma
+TCGA-NG-A4VW-01,uterine carcinosarcoma
+TCGA-PC-A5DK-01,leiomyosarcoma
+TCGA-PC-A5DL-01,leiomyosarcoma
+TCGA-PC-A5DM-01,leiomyosarcoma
+TCGA-PC-A5DN-01,liposarcoma
+TCGA-PC-A5DO-01,leiomyosarcoma
+TCGA-PC-A5DP-01,leiomyosarcoma
+TCGA-PT-A8TR-01,leiomyosarcoma
+TCGA-QC-A6FX-01,undifferentiated pleomorphic sarcoma
+TCGA-QC-A7B5-01,undifferentiated sarcoma NOS
+TCGA-QC-AA9N-01,undifferentiated sarcoma NOS
+TCGA-QM-A5NM-01,uterine carcinosarcoma
+TCGA-QN-A5NN-01,uterine carcinosarcoma
+TCGA-QQ-A5V9-01,undifferentiated pleomorphic sarcoma
+TCGA-QQ-A5VA-01,liposarcoma
+TCGA-QQ-A5VB-01,leiomyosarcoma
+TCGA-QQ-A5VC-01,leiomyosarcoma
+TCGA-QQ-A5VD-01,leiomyosarcoma
+TCGA-QQ-A8VF-01,leiomyosarcoma
+TCGA-SG-A6Z4-01,undifferentiated pleomorphic sarcoma
+TCGA-SG-A6Z7-01,liposarcoma
+TCGA-SG-A849-01,undifferentiated pleomorphic sarcoma
+TCGA-SI-A71O-01,undifferentiated pleomorphic sarcoma
+TCGA-SI-A71O-06,undifferentiated pleomorphic sarcoma
+TCGA-SI-AA8B-01,undifferentiated pleomorphic sarcoma
+TCGA-UE-A6QT-01,liposarcoma
+TCGA-UE-A6QU-01,liposarcoma
+TCGA-VT-A80G-01,undifferentiated pleomorphic sarcoma
+TCGA-VT-A80J-01,undifferentiated pleomorphic sarcoma
+TCGA-VT-A80J-02,undifferentiated pleomorphic sarcoma
+TCGA-VT-AB3D-01,undifferentiated pleomorphic sarcoma
+TCGA-WK-A8XO-01,liposarcoma
+TCGA-WK-A8XQ-01,undifferentiated pleomorphic sarcoma
+TCGA-WK-A8XS-01,leiomyosarcoma
+TCGA-WK-A8XT-01,synovial sarcoma
+TCGA-WK-A8XX-01,leiomyosarcoma
+TCGA-WK-A8XY-01,leiomyosarcoma
+TCGA-WK-A8XZ-01,leiomyosarcoma
+TCGA-WK-A8Y0-01,undifferentiated pleomorphic sarcoma
+TCGA-WP-A9GB-01,leiomyosarcoma
+TCGA-X2-A95T-01,leiomyosarcoma
+TCGA-X6-A7W8-01,myxofibrosarcoma
+TCGA-X6-A7WA-01,leiomyosarcoma
+TCGA-X6-A7WB-01,leiomyosarcoma
+TCGA-X6-A7WC-01,undifferentiated pleomorphic sarcoma
+TCGA-X6-A7WD-01,leiomyosarcoma
+TCGA-X6-A8C2-01,undifferentiated pleomorphic sarcoma
+TCGA-X6-A8C3-01,myxofibrosarcoma
+TCGA-X6-A8C4-01,undifferentiated sarcoma NOS
+TCGA-X6-A8C5-01,leiomyosarcoma
+TCGA-X6-A8C6-01,fibromyxosarcoma
+TCGA-X6-A8C7-01,synovial sarcoma
+TCGA-X9-A971-01,leiomyosarcoma
+TCGA-X9-A973-01,undifferentiated sarcoma NOS
+TCGA-Z4-A9VC-01,liposarcoma
+TCGA-Z4-AAPF-01,synovial sarcoma
+TCGA-Z4-AAPG-01,undifferentiated pleomorphic sarcoma

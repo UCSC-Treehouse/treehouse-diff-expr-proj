@@ -1,0 +1,42 @@
+---
+title: "Metadata Sorting"
+format: html
+editor: visual
+---
+
+```{r}
+install.packages("readr")
+
+```
+
+```{r}
+library(tidyverse)
+library(dplyr)
+```
+
+```{r}
+metadata <- "/Users/ziminc/diffexprdata/p2/clinical_Treehouse-Tumor-Compendium-25.01-PolyA_20250131v1.tsv"
+
+read_tsv(metadata)
+```
+
+```{r}
+# read the clinical metadata table
+metadatatable <- read_tsv("/Users/ziminc/diffexprdata/p2/clinical_Treehouse-Tumor-Compendium-25.01-PolyA_20250131v1.tsv")
+```
+
+```{r}
+
+library(dplyr)
+
+filtered <- metadatatable %>%
+  filter(
+    grepl("sarcoma", disease, ignore.case = TRUE),         # keep sarcomas
+    !grepl("osteosarcoma", disease, ignore.case = TRUE),   # remove osteo
+    !grepl("chondrosarcoma", disease, ignore.case = TRUE)  # remove chondro
+  ) %>%
+  select(th_dataset_id, disease)   # keep only id + disease
+
+head(filtered)
+
+```
