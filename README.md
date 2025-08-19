@@ -1,4 +1,4 @@
-# RNA-seq Processing Pipeline 
+# Differential Expression Analysis (DESeq2) & RNA-seq Processing Pipeline Across Soft Tissue Sarcoma Groups
 
 ## Overview
 This repo contains scripts for preprocessing and DESeq2 analysis of sarcoma RNA-seq data.  
