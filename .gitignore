@@ -53,3 +53,4 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+full_env_backup.RData
